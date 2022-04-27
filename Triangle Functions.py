@@ -2,7 +2,7 @@
 #Triangle Geometry Functions - www.101computing.net/triangle-geometry-functions
 
 #Isiah Williams
-#Coding For All_P6
+#Coding For All-P6
 #Mr. Burns
 
 #Functions used for the formulas
